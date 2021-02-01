@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(./bachongying.png) no-repeat;
+    background-size: cover;
+    width: 100vw;
+}
+
+.box{
+    width: 25%;
+    background: rgba(0, 0, 0, .2);
+    margin: 100px auto;
+    color: #fff;
+    text-align: center;
+}
+
+.box img{
+    width: 50px;
+    height: 50px;
+    padding: 5px 0;
+    border-radius: 100%;
+}
+
+.box ul{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: space-around;
+}
+
+.box li{
+    text-align: center;
+    list-style: none;
+}
+
+.box a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.zha{
+    display:flex; 
+    background: rgba(0, 0, 0, .1);
+}
